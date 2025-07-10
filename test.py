@@ -1,3 +1,3 @@
 
 
-print("Salut Emilie, je sais utiliser Git")
+print("Salut George, je sais utiliser Git")
